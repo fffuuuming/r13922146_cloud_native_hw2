@@ -1,1 +1,3 @@
-# r13922146_cloud_native_hw2
+# Cloud Native Application HW2
+## Overview
+A simple practice of github
